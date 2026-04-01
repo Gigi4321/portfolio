@@ -127,12 +127,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Engy Hassan**
 - Frontend Developer
-- Specializing in React, Next.js, and TypeScript
+- Specializing in Angular and TypeScript
 - Building exceptional digital experiences
 
 ## 📞 Contact
 
-Feel free to reach out for collaborations or opportunities!
+engyosman11@gmail.com
 
 ---
 
